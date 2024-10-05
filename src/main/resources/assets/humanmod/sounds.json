@@ -1,0 +1,18 @@
+{
+  "sound1": {
+    "sounds": [{
+      "subtitle": "humanmod.female",
+      "name": "humanmod:female",
+      "stream": false
+    }
+    ]
+  },
+  "sound2": {
+    "sounds": [{
+      "subtitle": "humanmod.male",
+      "name": "humanmod:male",
+      "stream": false
+    }
+    ]
+  }
+}

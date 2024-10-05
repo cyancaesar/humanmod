@@ -1,0 +1,10 @@
+{
+  "item.humanmod.example_item": "Human ball",
+  "item.humanmod.demon_sword": "Demon Sword",
+  "block.humanmod.human_block": "Block of Human",
+  "item.humanmod.rough_pickaxe": "Rough Pickaxe",
+  "item.humanmod.calcite_pickaxe": "\u00A76Calcite Pickaxe",
+  "itemGroup.humanmodtab": "HumanMod",
+  "entity.humanmod.slave": "Slave",
+  "screen.humanmod.human": "Human Manipulator"
+}

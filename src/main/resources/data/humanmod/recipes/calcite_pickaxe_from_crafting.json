@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " nN",
+    "g/n",
+    "/g "
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "N": {
+      "item": "minecraft:netherite_block"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "humanmod:calcite_pickaxe",
+    "count": 1
+  }
+}
